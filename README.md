@@ -1,4 +1,4 @@
-# Reels Publishing APIs
+https://www.threads.com/@jaysonscottheise # Reels Publishing APIs
 
 - [Facebook Reels Publishing API Sample App](/fb_reels_publishing_api_sample/)
 - [Instagram Reels Publishing API Sample App](/insta_reels_publishing_api_sample/)
