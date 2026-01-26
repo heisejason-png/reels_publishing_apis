@@ -5,3 +5,4 @@ https://www.threads.com/@jaysonscottheise # Reels Publishing APIs
 
 ## License
 Reels Publishing APIs is Meta Platform Policy licensed, as found in the LICENSE file.
+Created by Jason Scott Heise
